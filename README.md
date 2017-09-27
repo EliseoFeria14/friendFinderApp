@@ -1,2 +1,2 @@
 # friendFinderApp
-full-stack app to find friend that have common interests
+full-stack app to find friends that have common interests

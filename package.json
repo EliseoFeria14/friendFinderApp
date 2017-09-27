@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/EliseoFeria14/friendFinderApp#readme",
   "dependencies": {
-    "body-parser": "^1.18.1"
+    "body-parser": "^1.18.1",
+    "express": "^4.15.5"
   }
 }
